@@ -103,7 +103,7 @@ venv
 *.trips.xml
 shifted_map-AUTOGEN.net.xml
 *.egg
-*.glb
+
 *flamegraph-perf.log
 *flamegraph.svg
 *flamegraph.html
@@ -118,7 +118,7 @@ build.db
 !smarts/sstudio/tests/*.rou.xml
 
 # but keep model assets
-!**/models/*.glb
+
 *.blend1
 
 # run logs
